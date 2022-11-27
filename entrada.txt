@@ -1,0 +1,15 @@
+A a b
+Q A B C D
+q A
+F D
+T A a A
+T A b A
+T A b B
+T B e C
+T C b D
+T D a D
+T D e C
+P abababbababa
+P aaabaababaa
+P abb
+P abab
